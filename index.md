@@ -1,8 +1,8 @@
 # Introduction
-<About me and the FCC>
+About me and the FCC
 
 # Hours
-  <Hours of operation>
+Hours of operation
 
 # Fees
-  <Table of current fees>
+Table of current fees
