@@ -1,8 +1,8 @@
 # Introduction
 About me and the FCC
 
-# Hours
+## Hours
 Hours of operation
 
-# Fees
+## Fees
 Table of current fees
