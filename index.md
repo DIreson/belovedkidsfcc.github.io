@@ -5,4 +5,4 @@
   <Hours of operation>
 
 # Fees
-    <Table of current fees>
+  <Table of current fees>
